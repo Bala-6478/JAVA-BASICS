@@ -1,5 +1,5 @@
 ## JAVA-BASICS
 * JAVA MATH
 * JAVA BOOLEAN
-* 
+* JAVA
  
