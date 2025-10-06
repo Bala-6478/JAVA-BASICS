@@ -1,0 +1,5 @@
+modifier return_type
+methode_name()
+{
+    methode body;
+}
