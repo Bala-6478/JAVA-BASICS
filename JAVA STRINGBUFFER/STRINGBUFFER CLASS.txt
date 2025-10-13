@@ -1,0 +1,26 @@
+STRINGBUFFER CLASS 
+1.append() method
+2.insert() method
+3.replase() method
+4.delete() method
+5.reverse() method
+6.capacity() method
+7.length() method
+8.deleteCharAt() method
+9.ensureCapactiy() method
+10.charAt() method
+11.IntStream() method
+12.appendCodePoint() method
+13.codePointAt() method
+14.codePointBefore() method
+15.codePointCount() method
+16.getChars() method
+17.indexOf() method
+18. lastIndexOf() method
+19. offsetByCodePoints() method
+20.setCharAt() method
+21.setLength() method
+22.subSequence() method
+23.substring() method
+24.toString() method
+25.trimeToSize() method
