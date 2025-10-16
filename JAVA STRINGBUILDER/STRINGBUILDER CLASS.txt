@@ -1,0 +1,16 @@
+STRINGBUILDER CLASS
+1.append() method
+2.insert() method
+3.replace() method
+4.delete() method
+5.reverse() method
+6.capacity() method
+7.length() method
+8.CharAt() method
+9.setCharAt() method
+10.substring() method
+11.ensureCapacity() method
+12.deleteCharAt() method
+13.indexOf() method
+14.lastIndexOf() method
+15.toString() method
