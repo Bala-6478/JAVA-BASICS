@@ -8,7 +8,7 @@
 * JUMP STATEMENTS IN JAVA (BREAK,CONTINUE,RETURN)   
 * JAVA METHODS (STATIC METHODS,INSTANCE METHODS,COMMAND LINE ARGUMENTS)  
 * JAVA STRINGS     
-* JAVA STRINGBUFFER CLASS                
+* JAVA STRINGBUFFER CLASS                 
 * JAVA STRINGBUILDER CLASS                                                      
                    
            
