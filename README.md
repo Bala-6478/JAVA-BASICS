@@ -13,7 +13,7 @@
 * JAVA METHODS (STATIC METHODS,INSTANCE METHODS,COMMAND LINE ARGUMENTS)     
 * JAVA STRINGS        
 * JAVA STRINGBUFFER CLASS                   
-* JAVA STRINGBUILDER CLASS    
+* JAVA STRINGBUILDER CLASS      
 * JAVA ACCESS MODIFIERS                      
 * JAVA FORMAT SPECIFIER                                                
                                     
