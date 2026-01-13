@@ -1,7 +1,7 @@
 ## JAVA-BASICS     
 
 * JAVA VARIABLES                      
-* JAVA DATA TYPES     
+* JAVA DATA TYPES        
 * JAVA MATH              
 * JAVA BOOLEAN                
 * JAVA OPERATORS              
