@@ -1,7 +1,7 @@
 ## JAVA-BASICS     
     
 * JAVA VARIABLES                      
-* JAVA DATA TYPES        
+* JAVA DATA TYPES           
 * JAVA MATH                 
 * JAVA BOOLEAN                
 * JAVA OPERATORS               
@@ -14,7 +14,7 @@
 * JAVA STRINGS          
 * JAVA STRINGBUFFER CLASS                      
 * JAVA STRINGBUILDER CLASS  
-* JAVA ACCESS MODIFIERS                        
+* JAVA ACCESS MODIFIERS                         
 * JAVA FORMAT SPECIFIER                                                         
                                             
         
