@@ -1,5 +1,5 @@
 ## JAVA-BASICS     
-    
+       
 * JAVA VARIABLES                      
 * JAVA DATA TYPES           
 * JAVA MATH                 
