@@ -4,7 +4,7 @@
 * JAVA DATA TYPES                
 * JAVA MATH    
 * JAVA BOOLEAN                                        
-* JAVA OPERATORS                          
+* JAVA OPERATORS                             
 * JAVA CONDITION STATEMENTS                                                                       
 * JAVA FOR LOOPING                                                   
 * JAVA WHILE LOOPING                               
