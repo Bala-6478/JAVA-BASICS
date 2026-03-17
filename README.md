@@ -3,7 +3,7 @@
 * JAVA VARIABLES                                       
 * JAVA DATA TYPES                            
 * JAVA MATH             
-* JAVA BOOLEAN                                     S                
+* JAVA BOOLEAN                                      
 * JAVA OPERATORS                                       
 * JAVA CONDITION STATEMENTS                                                                                           
 * JAVA FOR LOOPING                                                           
