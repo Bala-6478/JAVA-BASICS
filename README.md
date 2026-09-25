@@ -2,7 +2,7 @@
                  
 * JAVA VARIABLES                                         
 * JAVA DATA TYPES                              
-* JAVA MATHS                       
+* JAVA MATHS                        
 * JAVA BOOLEAN                                        
 * JAVA OPERATORS                                       
 * JAVA CONDITION STATEMENTS                                                                                           
